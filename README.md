@@ -75,9 +75,8 @@
 - Swagger
 
 ### Infra
-- Cloud Run
-- Cloud SQL
-- Google Cloud Storage
+- AWS EC2
+- Docker compose
 
 ---
 
