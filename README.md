@@ -1,4 +1,6 @@
-# 알짜배기 (Alzza) — 골반 흔들림을 멈추기 위한 운동 자세 코칭 서비스
+# 알짜배기 (Alzza) 
+
+<img width="1594" height="892" alt="Image" src="https://github.com/user-attachments/assets/6e251d23-36f7-4325-8290-55235564c6d4" />
 
 > **한 줄 소개**  
 > “멈추지 않는 골반을 멈추기 위한” **운동 자세 코칭 서비스**입니다.  
