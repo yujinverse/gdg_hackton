@@ -11,6 +11,9 @@
 🔗 Frontend: https://realdeal-fe.vercel.app/  
 🔗 Backend Docs: https://alzza.cloud/docs  
 
+백엔드레포 : https://github.com/yujinverse/A_real_deal <br>
+프론트레포 : https://github.com/ppre1ude/realdeal-fe
+
 ---
 
 ## 📌 Problem
