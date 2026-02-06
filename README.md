@@ -14,6 +14,37 @@
 백엔드레포 : https://github.com/yujinverse/A_real_deal <br>
 프론트레포 : https://github.com/ppre1ude/realdeal-fe
 
+## 멤버들
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/yujinverse">
+        <img src="https://github.com/yujinverse.png" width="100" height="100" /><br/>
+        <strong>@yujinverse</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ppre1ude">
+        <img src="https://github.com/ppre1ude.png" width="100" height="100" /><br/>
+        <strong>@ppre1ude</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/samminmul">
+        <img src="https://github.com/samminmul.png" width="100" height="100" /><br/>
+        <strong>@samminmul</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/devmonkey1202">
+        <img src="https://github.com/devmonkey1202.png" width="100" height="100" /><br/>
+        <strong>@devmonkey1202</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 ---
 
 ## 📌 Problem
@@ -89,8 +120,7 @@
 
 ---
 
-## 멤버들
-김유진 : 백엔드 개발자 김유진 입니다!
+
 
 ```bash
 npm install
